@@ -13,7 +13,7 @@
 
 ## 0000 Getting Started! 
   ### Curling this repository 
-    #### Syntax:
+   #### Syntax:
      
      '$ curl -o [file_name] [URL ..]  '
    #### Instance: 
@@ -38,6 +38,16 @@
 
 
 ![alt text](image.jpg)
+
+| Keystroke   | Function  | 
+|----------|:-------------:|
+|   h  |   Move cursor left | 
+|  l/spacebar |  Move cursor right | 
+|  k/Ctrl+p |  Move cursor up  | 
+|  J/Ctrl+n |  Move cursor down| 
+|  ctrl+f   |  Scroll forward one page| 
+|  ctrl+b   |  Scroll forward one page| 
+|  ctrl+d  |  Scroll down one half of a page| 
 
 
 ## 0100 Lesson 3. Window Pains
