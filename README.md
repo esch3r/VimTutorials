@@ -7,8 +7,8 @@
    in such a way each build. Consider this resource as a supplement 
    to the links given below. 
 
-  - [Learn vim For the Last Time: A Tutorial and Primer] (https://danielmiessler.com/study/vim/)
-  - [OpenVim Tutor] (https://www.openvim.com)
+  - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
+  - [OpenVim Tutor](https://www.openvim.com)
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
 
 ## 0000 Getting Started! 
