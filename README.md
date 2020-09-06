@@ -1,4 +1,4 @@
-#VimTutorials 
+# VimTutorials 
 
 
 ## To preface this document there many resources for learning Vim.
@@ -13,13 +13,14 @@
 
 ## 0000 Getting Started! 
   ### Curling this repository 
-     **Syntax: **
-     '$ curl -o [file_name] [URL ..] 
-     **Instance: ** 
+    #### Syntax:
+     
+     '$ curl -o [file_name] [URL ..]  '
+   #### Instance: 
       'curl -o VimTutorials.gz https://github.com/esch3r/VimTutorials'
 
   ### Git Clone  
-     Another way to yank these files to view them in console is with the git clone command. 
+   ####  Another way to yank these files to view them in console is with the git clone command. 
     '$ git clone https://github.com/esch3r/VimTutorials'
     
 
@@ -28,10 +29,10 @@
       
 
 ## 0010 Lesson 2. Modes within vim 
-     ### Insert 
-     ### Visual  
-     ### Normal 
-     ### Select 
+     - Insert:        
+     - Visual:  
+     - Normal:
+     - Select: 
 
 ## 0011 Lesson 3. Navigating text 
 
