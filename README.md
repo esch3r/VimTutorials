@@ -29,6 +29,8 @@
       
 
 ## 0010 Lesson 2. Modes within vim 
+
+ ![alt text](VimModes.png)
      - Insert:        
      - Visual:  
      - Normal:
@@ -37,7 +39,7 @@
 ## 0011 Lesson 3. Navigating text 
 
 
-![alt text](image.jpg)
+
 
 | Keystroke   | Function  | 
 |----------|:-------------:|
