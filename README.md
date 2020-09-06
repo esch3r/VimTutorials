@@ -4,7 +4,7 @@
 ## To preface this document there many resources for learning Vim.
    Some of these resources may prove to be more useful to you than 
    this document. That said, exercises provided here are constructed 
-   in such a way each build. Consider this resource as a supplement 
+   in such a way each build on each other. Consider this resource as a supplement 
    to the links given below. 
 
   - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
