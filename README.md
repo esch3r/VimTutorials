@@ -10,6 +10,10 @@
   - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
   - [OpenVim Tutor](https://www.openvim.com)
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
+ 
+## Exercises
+ Do the excercises below in the following order:
+  - 
 
 ## 0000 Getting Started! 
   ### Curling this repository 
@@ -22,7 +26,7 @@
   ### Git Clone  
    ####  Another way to yank these files to view them in console is with the git clone command. 
     '$ git clone https://github.com/esch3r/VimTutorials'
-    
+  
 
 
 ## 0001 Lesson 1.  Entering/Exiting Vim  
@@ -31,14 +35,21 @@
 ## 0010 Lesson 2. Modes within vim 
 
  ![alt text](VimModes.png)
-     - Insert:        
-     - Visual:  
-     - Normal:
-     - Select: 
+   ### Insert:  
+      - Modify the file inserting new text 
+      
+   ### Visual: 
+      - Visually select text by moving cursor over it,
+         then operate over the text thats selected. 
+         
+   ### Normal:
+      - Default mode 
+      - Allows quick mauevers through the text. 
+      - Switching between other modes.
+       
+   ### Select: 
 
 ## 0011 Lesson 3. Navigating text 
-
-
 
 
 | Keystroke   | Function  | 
@@ -53,5 +64,8 @@
 
 
 ## 0100 Lesson 3. Window Pains
+
+## 1001 Lesson 9. Plugins 
+
 
  
