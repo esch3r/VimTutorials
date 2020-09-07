@@ -1,5 +1,5 @@
+![Vim Editor](VimEditor.jpg)
 # VimTutorials 
-
 
 ## To preface this document there many resources for learning Vim.
    Some of these resources may prove to be more useful to you than 
@@ -97,7 +97,12 @@
 |  Shift+W | Traverse between windows  | 
 
 ## 0101 Lesson 5. Searching 
-
+| keystroke  |  Function |
+|------------| -----------:|
+|  /PaTTeRn |  Search forward for PaTTeRn |
+|  ?PaTTeRn |  Search backward for PaTTeRn |
+|   n       |  Repeat foward search        |
+|   N       |  Repeat backward search      |
 
 ## 0110 Lesson 6. Subsitution 
 
