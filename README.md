@@ -8,8 +8,12 @@
    to the links given below. 
 
   - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
+  - [VIM Cheatsheet](http://www.fprintf.net/vimCheatSheet.html)
+  - [ Vi Keybindings](http://hea-www.harvard.edu/~fine/Tech/vi.html)
   - [OpenVim Tutor](https://www.openvim.com)
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
+  - [Groking Vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+  
  
 ## Exercises
   Do the excercises below in the following order:
@@ -31,6 +35,17 @@
 
 ## 0001 Lesson 1.  Entering/Exiting Vim  
 
+1.  Open a file with **Vim FirstLesson.txt** 
+2.  Once in vim hit **i** to enter insert mode. Write some random 
+     sentences for practice later. When finished hit the **esc** key.
+3.  Repeat this text selection, as many times as the task requires: 
+    - Using the arrow keys move the cursor about the screen. 
+    - Enter visual mode by pressing **v**
+    - Highlight text using the cursor in visual mode  using the arrow keys. 
+    - Press **y** to *yank* or otherwise known as copy the selected text.
+    - Move using arrow keys again to intended location in the text to paste
+    - Press **p** to paste selected text in question. 
+4.  Upon exiting and saving your progress preform following keystokes listed below     in the table to write or discard file edits:
 
 | Keystroke   | Function  | 
 |----------|-------------:|
