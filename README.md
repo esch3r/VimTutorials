@@ -53,17 +53,28 @@
 
 
 | Keystroke   | Function  | 
-|----------|:-------------:|
+|----------|-------------:|
 |   h  |   Move cursor left | 
 |  l/spacebar |  Move cursor right | 
 |  k/Ctrl+p |  Move cursor up  | 
 |  J/Ctrl+n |  Move cursor down| 
-|  ctrl+f   |  Scroll forward one page| 
-|  ctrl+b   |  Scroll forward one page| 
-|  ctrl+d  |  Scroll down one half of a page| 
+|  Ctrl+f   |  Scroll forward one page| 
+|  Ctrl+b   |  Scroll forward one page| 
+|  Ctrl+d  |  Scroll down one half of a page| 
 
 
-## 0100 Lesson 3. Window Pains
+## 0100 Lesson 4. Window Pains
+
+| Keystroke   | Function  | 
+|----------|-------------:|
+|  hsp|   Horizontally split window | 
+|  vsp |  vertically split window| 
+|  Shift+W | Traverse between windows  | 
+
+## 0101 Lesson 5. Searching 
+
+
+## 0110 Lesson 6. Subsitution 
 
 ## 1001 Lesson 9. Plugins 
 
