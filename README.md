@@ -12,7 +12,7 @@
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
  
 ## Exercises
- Do the excercises below in the following order:
+  Do the excercises below in the following order:
   - 
 
 ## 0000 Getting Started! 
@@ -36,16 +36,16 @@
 
  ![alt text](VimModes.png)
    ### Insert:  
-      - Modify the file inserting new text 
+   - Modify the file inserting new text 
       
    ### Visual: 
-      - Visually select text by moving cursor over it,
+   - Visually select text by moving cursor over it,
          then operate over the text thats selected. 
          
    ### Normal:
-      - Default mode 
-      - Allows quick mauevers through the text. 
-      - Switching between other modes.
+   - Default mode 
+   - Allows quick mauevers through the text. 
+   - Switching between other modes.
        
    ### Select: 
 
