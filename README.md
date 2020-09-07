@@ -30,6 +30,15 @@
 
 
 ## 0001 Lesson 1.  Entering/Exiting Vim  
+
+
+| Keystroke   | Function  | 
+|----------|-------------:|
+| :w or w *file*|   save changes to buffer or safe file to new file  | 
+|  ZZ or :wq |  Save changes and quit | 
+|  :q! | quit without saving | 
+
+
       
 
 ## 0010 Lesson 2. Modes within vim 
