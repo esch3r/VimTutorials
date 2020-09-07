@@ -61,7 +61,7 @@
 
  ![alt text](VimModes.png)
    ### Insert:  
-   - Modify the file inserting new text 
+   - Modify the file inserting new text.
       
    ### Visual: 
    - Visually select text by moving cursor over it,
