@@ -14,7 +14,8 @@
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
   - [Groking Vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
   
- 
+ Last but not least is vimtutor which is available in console. Which provides an excellent starting point for the fundamentals. 
+  -'$ vimtutor' 
 ## Exercises
   Do the excercises below in the following order:
   - 
