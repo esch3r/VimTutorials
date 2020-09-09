@@ -6,6 +6,8 @@ filetype indent plugin on
 syntax on 
 
 
+
+ser noerrorbells 
 set confirm 
 set autowriteall 
 set hidden 
@@ -23,16 +25,17 @@ set smartcase
  " Allow backspacing over autoindent, line breaks and start of insert action 
 set backspace=indent,eol, start 
 
-set autoindent
+set 
 set ruler
 
 "Always display the status line, even if only one window is displayed
 set laststatus=2
 
-set confirm 
+ 
 set visualbell
 
-"Reset the terminal code for visual belll 
+
+"Reset the terminal code for visual bell
 set t_vb=
 
 "Enable mouse use for all modes
@@ -50,11 +53,17 @@ set notimeout ttimeout ttimeoutlen=200
 "Use <F11> to toggle between 'paste' and 'nopaste'
 set pastetoggle=<F11>
 
+set undodir=~/.vim/undodir
+set undofile
+set incsearch 
+
 
 "-----------------------------------------------------------
 "-----------------| Indentation Settings |------------------
-set shiftwidth = 5
-set softtabstop =5
+set smartindent
+set tabstop=4 softtabstop=4
+set shiftwidth = 4
+set softtabstop =4
 set expandtab 
 
 "----------------------------------------------------------
@@ -62,5 +71,10 @@ set expandtab
 map Y y$
 
 nnoremap <C-L> : nohl<CR><C-L>
+
+"----------------------------------------------------------
+"-----------------| Color & Pizzazz |----------------------
+set colorcolumn=80
+highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 "----------------------------------------------------------
