@@ -31,7 +31,15 @@
   ### Git Clone  
    ####  Another way to yank these files to view them in console is with the git clone command. 
     '$ git clone https://github.com/esch3r/VimTutorials'
-  
+    
+## .vimrc Config 
+  Its common to place the .vimrc configuration file  '/etc/vim/vimrc/' or '/etc/vimrc/' another 
+  alternative which works well if the default .vimrc is read-only is to place it in your home directory '~'.
+ ### 1. Basic Configuration 
+ ### 2. Indentation 
+ ### 3. Appearance 
+ ### 4. Search
+ ### 5. Edit 
 
 
 ## 0001 Lesson 1.  Entering/Exiting Vim  
@@ -104,7 +112,9 @@
 |   n       |  Repeat foward search        |
 |   N       |  Repeat backward search      |
 
-## 0110 Lesson 6. Subsitution 
+## 0110 Lesson 6. Vim Journal
+
+## 0111 Lesson 7. Subsitution 
 
 ## 1001 Lesson 9. Plugins 
 
