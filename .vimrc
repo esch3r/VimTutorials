@@ -70,8 +70,18 @@ set expandtab
 "-----------------| Keystroke Mappings |-------------------
 map Y y$
 
+"Remap jj to escape 
+imap jj <esc> 
+
+"Save fast moves 
+nmap <leader>w :w!<cr>
 nnoremap <C-L> : nohl<CR><C-L>
 
+"
+nnoremap ,cd :cd %:p:h<CR>:pwd<CR>
+
+"Load current text in buffer into Google Chrome
+nmap ,c :!open -a Google\ Chrome<cr>
 "----------------------------------------------------------
 "-----------------| Color & Pizzazz |----------------------
 set colorcolumn=80
