@@ -36,11 +36,12 @@
   Its common to place the .vimrc configuration file  '/etc/vim/vimrc/' or '/etc/vimrc/' another 
   alternative which works well if the default .vimrc is read-only is to place it in your home directory '~'.
  ### 1. Basic Configuration 
-        Install to '~/.vim/autoload/pathogen.vim' Or copy and paste the following into your terminal/shell:
-        'mkdir -p ~/.vim/autoload ~/.vim/bundle && \'
-        'curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim'
-         For each plugin simply upload them inside bundle folder 
-         '~/.vim/bundle/ 
+ 
+ Install  '~/.vim/autoload/pathogen.vim' 
+  Or copy and paste the following into your terminal/shell 'mkdir -p ~/.vim/autoload ~/.vim/bundle && \'
+ 'curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim'
+  For each plugin simply upload them inside bundle folder 
+  '~/.vim/bundle/'
  ### 2. Indentation 
  
  ### 3. Appearance 
