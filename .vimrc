@@ -1,11 +1,8 @@
-" Last edited: 09/08/2020 
-
-
-set nocompatible 
-filetype indent plugin on 
+execute pathogen#infect()
 syntax on 
 
 
+set nocompatible 
 
 ser noerrorbells 
 set confirm 
@@ -68,6 +65,17 @@ set expandtab
 
 "----------------------------------------------------------
 "-----------------| Keystroke Mappings |-------------------
+
+nnoremap <C-L> :nohl<CR><C-L>
+vnoremap <Leader> s : sort<CR>
+nmap <leader> ch <Plug>(cow-close-h)
+nmap <leader> cj <Plug>(cow-close-j)
+nmap <leader> ck <Plug>(cow-close-k)
+nmap <leader> cl <Plug>(cow-close-l)
+
+vnoremap < <gv
+vnoremap > >gv
+
 map Y y$
 
 "Remap jj to escape 
@@ -85,6 +93,10 @@ nmap ,c :!open -a Google\ Chrome<cr>
 "----------------------------------------------------------
 "-----------------| Color & Pizzazz |----------------------
 set colorcolumn=80
-highlight ColorColumn ctermbg=0 guibg=lightgrey
+highlight ColorColumn ctermbg=0 guibg=blue
 
+filetype plugin indent on
+set t_Co =256
+set encoding=utf-8
+set rtp+=~/.vim/bundle/cow.vim
 "----------------------------------------------------------
