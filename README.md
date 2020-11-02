@@ -21,7 +21,7 @@
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
  
  ## Learn using Qutebrowser 
-  [Use vim keyboard-driven web browser](https://qutebrowser.org) 
+  [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
     
 ## Exercises
   Do the excercises below in the following order:
