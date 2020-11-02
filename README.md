@@ -7,12 +7,19 @@
    in such a way each build on each other. Consider this resource as a supplement 
    to the links given below. 
 
+  - [Luke Smith's Youtube Vim tutorials](https://www.youtube.com/watch?v=mH1GGI2Jpbs&feature=emb_logo)
   - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
   - [VIM Cheatsheet](http://www.fprintf.net/vimCheatSheet.html)
   - [ Vi Keybindings](http://hea-www.harvard.edu/~fine/Tech/vi.html)
   - [OpenVim Tutor](https://www.openvim.com)
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
   - [Groking Vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+ 
+ ## Learn through Vim File Managers
+   - [Vifm Quickstart tutorial](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
+   - [Ranger](https://ranger.github.io)
+   - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
+   
   
  Last but not least is vimtutor which is available in console. Which provides an excellent starting point for the fundamentals. 
  '$ vimtutor ' 
@@ -22,9 +29,6 @@
 
 ## 0000 Getting Started! 
   ### Curling this repository 
-   #### Syntax:
-     
-     '$ curl -o [file_name] [URL ..]  '
    #### Instance: 
       'curl -o VimTutorials.gz https://github.com/esch3r/VimTutorials'
 
