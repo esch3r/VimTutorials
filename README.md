@@ -21,7 +21,8 @@
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
  
  ## Learn using Qutebrowser 
-    ![a](QutebrowserKeybindings.png) 
+ 
+  ![Qutebrowser](QutebrowserKeybindings.png) 
     
 ## Exercises
   Do the excercises below in the following order:
