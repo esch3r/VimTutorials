@@ -16,7 +16,7 @@
   - [Groking Vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
  
  ## Learn through Vimesque file Managers
-   - [Vifm Quickstart tutorial](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
+   - [Vifm ](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
    - [Ranger](https://ranger.github.io)
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
    
