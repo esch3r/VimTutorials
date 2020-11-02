@@ -5,7 +5,7 @@
    Some of these resources may prove to be more useful to you than 
    this document. That said, exercises provided here are constructed 
    in such a way each build on each other. Consider this resource as a supplement 
-   to the links given below. 
+   to the links given below. Before doing that start 'vimtutor'
 
   - [Luke Smith's Youtube Vim tutorials](https://www.youtube.com/watch?v=mH1GGI2Jpbs&feature=emb_logo)
   - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
@@ -19,10 +19,10 @@
    - [Vifm ](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
    - [Ranger](https://ranger.github.io)
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
-   
-  
- Last but not least is vimtutor which is available in console. Which provides an excellent starting point for the fundamentals. 
- '$ vimtutor ' 
+ 
+ ## Learn using Qutebrowser 
+    ![alt text](QutebrowserKeybindings.png) 
+    
 ## Exercises
   Do the excercises below in the following order:
   - 
@@ -79,7 +79,7 @@
 
 ## 0010 Lesson 2. Modes within vim 
 
- ![alt text](VimModes.png)
+ ![alt text](VimMods.png)
    ### Insert:  
    - Modify the file inserting new text.
       
