@@ -21,7 +21,7 @@
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
  
  ## Learn using Qutebrowser 
-    ![alt text](QutebrowserKeybindings.png) 
+    ![a](QutebrowserKeybindings.png) 
     
 ## Exercises
   Do the excercises below in the following order:
@@ -80,6 +80,7 @@
 ## 0010 Lesson 2. Modes within vim 
 
  ![alt text](VimMods.png)
+ 
    ### Insert:  
    - Modify the file inserting new text.
       
