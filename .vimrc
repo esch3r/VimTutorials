@@ -19,10 +19,6 @@ set hlsearchh
 set ignorecase
 set smartcase
  
- " Allow backspacing over autoindent, line breaks and start of insert action 
-set backspace=indent,eol, start 
-
-set 
 set ruler
 
 "Always display the status line, even if only one window is displayed
@@ -47,6 +43,10 @@ set relativenumber
 "Timeout of keycodes, but never timeout of mappings
 set notimeout ttimeout ttimeoutlen=200 
 
+" View the changes you have made to a buffer since the file was loaded
+command DiffOrig vert new | set bt=nofile | r # | 0d_ | diffthis | wincmd p | diffthis
+
+
 "Use <F11> to toggle between 'paste' and 'nopaste'
 set pastetoggle=<F11>
 
@@ -57,6 +57,11 @@ set incsearch
 
 "-----------------------------------------------------------
 "-----------------| Indentation Settings |------------------
+
+
+"Allow backspacing over autoindent, line breaks and start of insert action 
+set backspace=indent,eol, start 
+
 set smartindent
 set tabstop=4 softtabstop=4
 set shiftwidth = 4
