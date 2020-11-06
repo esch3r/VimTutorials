@@ -58,6 +58,7 @@ set incsearch
 "-----------------------------------------------------------
 "-----------------| Indentation Settings |------------------
 
+filetype plugin indent on
 
 "Allow backspacing over autoindent, line breaks and start of insert action 
 set backspace=indent,eol, start 
@@ -100,7 +101,6 @@ nmap ,c :!open -a Google\ Chrome<cr>
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=blue
 
-filetype plugin indent on
 set t_Co =256
 set encoding=utf-8
 set rtp+=~/.vim/bundle/cow.vim
