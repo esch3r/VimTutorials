@@ -4,7 +4,7 @@ syntax on
 
 set nocompatible 
 
-ser noerrorbells 
+set noerrorbells 
 set confirm 
 set autowriteall 
 set hidden 
