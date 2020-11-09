@@ -22,10 +22,12 @@
    
  ## Learn using Qutebrowser 
   [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
-    
+  
+---
 ## Exercises
   Do the excercises below in the following order:
   - 
+---
 
 ## 0000 Getting Started! 
   ### Curling this repository 
@@ -52,7 +54,8 @@
  
  ### 4. Search
  ### 5. Edit 
-
+ 
+---
 
 ## 0001 Lesson 1.  Entering/Exiting Vim  
 
