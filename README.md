@@ -9,6 +9,7 @@
   - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
   - [Luke Smith's Youtube Vim tutorials](https://www.youtube.com/watch?v=mH1GGI2Jpbs&feature=emb_logo)
   - [Vim Tutorial for Beginners: vimtutor](https://www.systutorials.com/vim-tutorial-beginners-vimtutor/)
+  - [Dr. Chip's Vim Page](http://www.drchip.org/astronaut/vim/)
   - [VIM Cheatsheet](http://www.fprintf.net/vimCheatSheet.html)
   - [ Vi Keybindings](http://hea-www.harvard.edu/~fine/Tech/vi.html)
   - [OpenVim Tutor](https://www.openvim.com)
