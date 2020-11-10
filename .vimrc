@@ -104,4 +104,7 @@ highlight ColorColumn ctermbg=0 guibg=blue
 set t_Co =256
 set encoding=utf-8
 set rtp+=~/.vim/bundle/cow.vim
+
+let g:NERDTreeDirArrowExpandable = '▸'
+let g:NERDTreeDirArrowCollapsible = '▾'
 "----------------------------------------------------------
