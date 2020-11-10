@@ -21,7 +21,7 @@
    - [Ranger](https://ranger.github.io)
    - [Vifm](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
 
-## Learn using Qutebrowser 
+## Qutebrowser 
   - [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
    
 ### Peripherals
