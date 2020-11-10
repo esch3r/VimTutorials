@@ -14,15 +14,20 @@
   - [ Vi Keybindings](http://hea-www.harvard.edu/~fine/Tech/vi.html)
   - [OpenVim Tutor](https://www.openvim.com)
   - [Groking Vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
- 
+  
+   
  ### Learn through Vimesque file Managers
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
    - [Ranger](https://ranger.github.io)
    - [Vifm](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
+
+## Learn using Qutebrowser 
+  - [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
+   
+### Gestural peripheral 
+   - [Tap](https://www.amazon.com/Tap-Strap-Wearable-Keyboard-Controller/dp/B07YCVPYWL/ref=asc_df_B07YCVPYWL/?tag=hyprod-20&linkCode=df0&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365&psc=1&tag=&ref=&adgrpid=82710786406&hvpone=&hvptwo=&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365)
   
    
- ## Learn using Qutebrowser 
-  [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
   
 ---
 ## Exercises
