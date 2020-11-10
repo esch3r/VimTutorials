@@ -24,8 +24,9 @@
 ## Learn using Qutebrowser 
   - [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
    
-### Gesture driven peripheral 
-   - [Tap](https://www.amazon.com/Tap-Strap-Wearable-Keyboard-Controller/dp/B07YCVPYWL/ref=asc_df_B07YCVPYWL/?tag=hyprod-20&linkCode=df0&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365&psc=1&tag=&ref=&adgrpid=82710786406&hvpone=&hvptwo=&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365)
+### Peripheral 
+   - [Tap -- Gesture driven keyboard & mouse ](https://www.amazon.com/Tap-Strap-Wearable-Keyboard-Controller/dp/B07YCVPYWL/ref=asc_df_B07YCVPYWL/?tag=hyprod-20&linkCode=df0&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365&psc=1&tag=&ref=&adgrpid=82710786406&hvpone=&hvptwo=&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365)
+   - [Kinesis -- Ergonomic keyboard + coconut oil ](https://www.amazon.com/Kinesis-Advantage2-Ergonomic-Keyboard-KB600/dp/B01KR1C5PY/ref=sr_1_3?crid=1VDSG5JT00H3W&dchild=1&keywords=kinesis+keyboard&qid=1604967694&s=electronics&sprefix=kinese%2Celectronics%2C186&sr=1-3)
   
    
   
