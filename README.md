@@ -38,12 +38,12 @@
   - 
 ---
 
-## 0000 Getting Started! 
-  ### Curling this repository 
+## Getting Started
+### Curl 
    #### Instance: 
       'curl -o VimTutorials.gz https://github.com/esch3r/VimTutorials'
 
-  ### Git Clone  
+  ### Git 
    ####  Another way to yank these files to view them in console is with the git clone command. 
     '$ git clone https://github.com/esch3r/VimTutorials'
     
@@ -57,37 +57,10 @@
  'curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim'
   For each plugin upload them inside bundle folder 
   '~/.vim/bundle/'
-  
-  
- ### 2. Indentation 
-'filetype plugin indent on
-
-"Allow backspacing over autoindent, line breaks and start of insert action 
-set backspace=indent,eol, start 
-
-set smartindent
-set tabstop=4 softtabstop=4
-set shiftwidth = 4
-set softtabstop =4
-set expandtab'
- 
- ### 3. Appearance 
- 
- ' set background=dark
-   colorscheme solarized
-
-set colorcolumn=80
-highlight ColorColumn ctermbg=0 guibg=blue
-
-set t_Co =256
-set encoding=utf-8
-set rtp+=~/.vim/bundle/cow.vim'
- 
-
  
 ---
 
-## 0001 Lesson 1.  Entering/Exiting Vim  
+## Lesson 1.  Entering/Exiting Vim  
 
 1.  Open a file with **Vim FirstLesson.txt** 
 2.  Once in vim hit **i** to enter insert mode. Write some random 
@@ -110,7 +83,7 @@ set rtp+=~/.vim/bundle/cow.vim'
 
       
 
-## 0010 Lesson 2. Modes within vim 
+## Lesson 2. Modes within vim 
 
  ![alt text](VimMods.png)
  
@@ -165,7 +138,7 @@ set rtp+=~/.vim/bundle/cow.vim'
 
 
 
-## 0100 Lesson 4. Window Pains
+## Lesson 4. Window Pains
 
 | Keystroke   | Function  | 
 |----------|-------------:|
@@ -188,11 +161,11 @@ set rtp+=~/.vim/bundle/cow.vim'
    - Global command 
   
 
-## 0110 Lesson 6. Vim Journal
+##  Lesson 6. Vim Journal
 
-## 0111 Lesson 7. Subsitution 
+##  Lesson 7. Subsitution 
 
-## 1001 Lesson 9. Plugins 
+## Lesson 9. Plugins 
 
 
  
