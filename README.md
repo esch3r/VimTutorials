@@ -21,7 +21,7 @@
    - [Ranger](https://ranger.github.io)
    - [Vifm](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
 
-## Vimesque Web browsers 
+### Vimesque Web browsers 
   - [Qutebrowser](https://qutebrowser.org) 
   - [Vimium](https://vimium.github.io)
   - [Vimperator](http://vimperator.org)
