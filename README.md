@@ -1,7 +1,7 @@
 ![Vim Editor](VimEditor.jpg)
 # VimTutorials 
 
-## There many resources for learning Vim.
+## resources for learning Vim.
    Some of these resources may prove to be more useful to you than 
    this document. Exercises provided below are constructed 
    in such a way each build on each other. Consider this resource as a supplement 
