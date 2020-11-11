@@ -105,8 +105,8 @@
 | Keystroke   | Function  | 
 |----------|-------------:|
 |  v  |   visual  | 
-|  <ctrl>+v |  block visual | 
-|  <shift>+v |  linewise visual | 
+|  ctrl+v |  block visual | 
+|  shift+v |  linewise visual | 
 
          
    ### Normal:
