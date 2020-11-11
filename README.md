@@ -21,8 +21,10 @@
    - [Ranger](https://ranger.github.io)
    - [Vifm](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
 
-## Qutebrowser 
-  - [Use a vim keyboard-driven web browser](https://qutebrowser.org) 
+## Vimesque Web browsers 
+  - [Qutebrowser](https://qutebrowser.org) 
+  - [Vimium](https://vimium.github.io)
+  - [Vimperator](http://vimperator.org)
    
 ### Recommended Peripherals
    - [Tap -- Gesture driven keyboard & mouse ](https://www.amazon.com/Tap-Strap-Wearable-Keyboard-Controller/dp/B07YCVPYWL/ref=asc_df_B07YCVPYWL/?tag=hyprod-20&linkCode=df0&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365&psc=1&tag=&ref=&adgrpid=82710786406&hvpone=&hvptwo=&hvadid=397137293922&hvpos=&hvnetw=g&hvrand=13399014046898626984&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019657&hvtargid=pla-852367230365)
@@ -50,17 +52,38 @@
   alternative which works well if the default .vimrc is read-only is to place it in your home directory '~'.
  ### 1. Basic Configuration 
  
- Install  '~/.vim/autoload/pathogen.vim' 
+ Upload git respository for pathogen into the following file path:  '~/.vim/autoload/pathogen.vim' 
   Or copy and paste the following into your terminal/shell 'mkdir -p ~/.vim/autoload ~/.vim/bundle && \'
  'curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim'
-  For each plugin simply upload them inside bundle folder 
+  For each plugin upload them inside bundle folder 
   '~/.vim/bundle/'
+  
+  
  ### 2. Indentation 
+'filetype plugin indent on
+
+"Allow backspacing over autoindent, line breaks and start of insert action 
+set backspace=indent,eol, start 
+
+set smartindent
+set tabstop=4 softtabstop=4
+set shiftwidth = 4
+set softtabstop =4
+set expandtab'
  
  ### 3. Appearance 
  
- ### 4. Search
- ### 5. Edit 
+ ' set background=dark
+   colorscheme solarized
+
+set colorcolumn=80
+highlight ColorColumn ctermbg=0 guibg=blue
+
+set t_Co =256
+set encoding=utf-8
+set rtp+=~/.vim/bundle/cow.vim'
+ 
+
  
 ---
 
@@ -93,10 +116,25 @@
  
    ### Insert:  
    - Modify the file inserting new text.
+   
+   
+| Keystroke   | Function  | 
+|----|---------|
+|  a |  append | 
+|  i |  insert | 
+|  o |  Insert a line below current line | 
       
    ### Visual: 
    - Visually select text by moving cursor over it,
          then operate over the text thats selected. 
+   - Visual mode has many different subtypes: visual, block visual, and linewise visual. 
+         
+| Keystroke   | Function  | 
+|----------|-------------:|
+|  v  |   visual  | 
+|  <ctrl>+v |  block visual | 
+|  <shift>+v |  linewise visual | 
+
          
    ### Normal:
    - Default mode 
@@ -104,6 +142,8 @@
    - Switching between other modes.
        
    ### Select: 
+   
+   ### Command:
 
 ## 0011 Lesson 3. Navigating text 
 
@@ -114,9 +154,15 @@
 |  l/spacebar |  Move cursor right | 
 |  k/Ctrl+p |  Move cursor up  | 
 |  J/Ctrl+n |  Move cursor down| 
-|  Ctrl+f   |  Scroll forward one page| 
-|  Ctrl+b   |  Scroll forward one page| 
-|  Ctrl+d  |  Scroll down one half of a page| 
+|   w      |  Move cursor up  | 
+|   b      |  Move cursor down| 
+|   e      |  Move cursor up  | 
+|   W      |  Move cursor down| 
+|   B       | Move to beginning of previous word before whitespace|
+|   E  |  Move to end of word before a whitespace | 
+|  0 |  Move to the beginning of the line | 
+|  $  |  move to the end of the line | 
+
 
 
 ## 0100 Lesson 4. Window Pains
@@ -133,7 +179,14 @@
 |  /PaTTeRn |  Search forward for PaTTeRn |
 |  ?PaTTeRn |  Search backward for PaTTeRn |
 |   n       |  Repeat foward search        |
-|   N       |  Repeat backward search      |
+|   N       |  Repeat backward search      |'
+
+
+### Regex 
+   - Subsitution  
+   - Pattern description 
+   - Global command 
+  
 
 ## 0110 Lesson 6. Vim Journal
 
