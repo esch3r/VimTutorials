@@ -14,6 +14,7 @@
   - [ Vi Keybindings](http://hea-www.harvard.edu/~fine/Tech/vi.html)
   - [OpenVim Tutor](https://www.openvim.com)
   - [Groking Vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+  - [Vim Regex](http://vimregex.com)
   
    
  ### Vimesque file Managers
