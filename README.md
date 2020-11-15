@@ -17,12 +17,12 @@
   - [Vim Regex](http://vimregex.com)
   
    
- ### Vimesque file Managers
+ ### Vimesque file managers
    - [Vim Explorer](https://www.vim.org/scripts/script.php?script_id=1950) 
    - [Ranger](https://ranger.github.io)
    - [Vifm](https://wiki.vifm.info/index.php?title=Quickstart_Tutorial)
 
-### Vimesque Web browsers 
+### Vimesque web browsers 
   - [Qutebrowser](https://qutebrowser.org) 
   - [Vimium](https://vimium.github.io)
   - [Vimperator](http://vimperator.org)
