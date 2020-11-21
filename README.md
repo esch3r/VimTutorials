@@ -147,7 +147,7 @@
 |  vsp |  vertically split window| 
 |  Shift+W | Traverse between windows  | 
 
-## 0101 Lesson 5. Searching 
+## Lesson 5. Searching 
 | keystroke  |  Function |
 |------------| -----------:|
 |  /PaTTeRn |  Search forward for PaTTeRn |
@@ -156,17 +156,7 @@
 |   N       |  Repeat backward search      |'
 
 
-### Regex 
-   - Subsitution  
-   - Pattern description 
-   - Global command 
-  
 
-##  Lesson 6. Vim Journal
-
-##  Lesson 7. Subsitution 
-
-## Lesson 9. Plugins 
 
 
  
