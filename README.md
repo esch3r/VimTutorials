@@ -86,28 +86,17 @@
 
 ## Lesson 2. Modes within vim 
 
- ![alt text](VimMods.png)
+    ![alt text](VimMods.png)
  
    ### Insert:  
    - Modify the file inserting new text.
    
-   
-| Keystroke   | Function  | 
-|----|---------|
-|  a |  append | 
-|  i |  insert | 
-|  o |  Insert a line below current line | 
+
       
    ### Visual: 
    - Visually select text by moving cursor over it,
          then operate over the text thats selected. 
    - Visual mode has many different subtypes: visual, block visual, and linewise visual. 
-         
-| Keystroke   | Function  | 
-|----------|-------------:|
-|  v  |   visual  | 
-|  ctrl+v |  block visual | 
-|  shift+v |  linewise visual | 
 
          
    ### Normal:
