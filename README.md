@@ -86,7 +86,7 @@
 
 ## Lesson 2. Modes within vim 
 
-    ![alt text](VimMods.png)
+![alt text](VimMods.png)
  
    ### Insert:  
    - Modify the file inserting new text.
