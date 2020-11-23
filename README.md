@@ -108,7 +108,7 @@
    
    ### Command:
 
-## 0011 Lesson 3. Navigating text 
+## Lesson 3. Navigating text 
 
 
 | Keystroke   | Function  | 
